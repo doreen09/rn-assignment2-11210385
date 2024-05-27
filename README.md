@@ -20,4 +20,4 @@ A simple react app that displays a message with a bold name.
 * React
 
 ## SCREENSHOT
-![REACT-NATIVE](\rn-assignment2-11210385\assets\appscreenshot.png)
+![REACT-NATIVE](https://github.com/doreen09/rn-assignment2-11210385/blob/main/rn-assignment2-11210385/assets/appscreenshot.png?raw=true)
